@@ -1,0 +1,5 @@
+name: Joinparticles
+version: '${project.version}'
+main: xyz.plocki.joinparticles.Joinparticles
+api-version: 1.16
+author: plocki
